@@ -1,0 +1,22 @@
+{
+  "name": "contribution-map",
+  "version": "1.0.0",
+  "description": "Github like termnial based contribution map",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "ascii",
+    "image"
+  ],
+  "author": "Vivek Poddar",
+  "license": "MIT"
+}
